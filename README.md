@@ -10,5 +10,7 @@ https://www.youtube.com/playlist?list=PL1Bjrbx1Tsx3TELwcMDRlxVjR8uv47o17
     # Code between "" to get String
     # Define variables with = 
     # Code without anything to get integers
-    
-  
+
+# Day 2
+  # Lists, Dictionaries & Tuples
+    #
