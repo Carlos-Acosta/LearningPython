@@ -6,6 +6,9 @@ https://www.youtube.com/playlist?list=PL1Bjrbx1Tsx3TELwcMDRlxVjR8uv47o17
 
 
 #Crtl + C: Interrupt the program (like Esc)
+# == compares values
+# != No equal
+# >= Greater or equal
 
 
 
@@ -37,6 +40,9 @@ https://www.youtube.com/playlist?list=PL1Bjrbx1Tsx3TELwcMDRlxVjR8uv47o17
         #...print (item)
 
     # While Loop
+
+# Day 4  
+   # Conditionals
 
 
 
